@@ -4,7 +4,7 @@
 
 ## Install 
 
-`install.packages("germanpolls")`
+
 
 `devtools::install_github("cutterkom/germanpolls")`
 
